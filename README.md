@@ -1,1 +1,2 @@
 # ID-Generator
+The "randomID" package is a simple random identifier (ID) generator. Its main purpose is to generate random strings of characters that can be used as unique identifiers for various purposes in applications. The application allows you to provide the desired identifier length and generates a random string of letters and numbers of this length.
